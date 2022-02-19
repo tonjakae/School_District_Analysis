@@ -78,21 +78,21 @@ By removing the 9th grader' math and reading scores, this drastically reduced Th
 ## How does replacing the ninth-grade scores affect the following:
 ### Math and reading scores by grade:
 
-  *Before
+#### Before
   
   ![image](https://user-images.githubusercontent.com/87340105/154783093-0a64b01a-84a7-4c76-b2f0-db79bb452af4.png)
   
-  *After
+#### After
   
   ![image](https://user-images.githubusercontent.com/87340105/154783127-b725b7c9-a772-47fa-9bc2-50c8a42ff928.png)
 
 
-## Scores by school spending The impact of the removal of 9th grade data impacted school spending for the $630 - $644 category only.
-### The original analysis of scores by school spending is illustrated below:
+### Scores by school spending The impact of the removal of 9th grade data impacted school spending for the $630 - $644 category only.
+#### The original analysis of scores by school spending is illustrated below:
 
 ![image](https://user-images.githubusercontent.com/87340105/154783538-822e8774-a1e8-4ccf-a0e1-d53d7e93c112.png)
 
-### Revised:
+#### Revised:
 
 ![image](https://user-images.githubusercontent.com/87340105/154783560-90071a59-9ae5-4e26-a63d-5706b71d2a80.png)
 
@@ -103,8 +103,8 @@ By removing the 9th grader' math and reading scores, this drastically reduced Th
  * Passing perctentages for both math and reading also declined going from 63% to 56%
 
 
-* Scores by school size
+### Scores by school size
 * 
-* Scores by school type
+### Scores by school type
 * 
-* Summary
+### Summary
