@@ -114,4 +114,12 @@ By removing the 9th grader' math and reading scores, this drastically reduced Th
 
 ![image](https://user-images.githubusercontent.com/87340105/154784393-9aca34d0-aec0-4e9f-9566-a35dab3e293e.png)
 
+After revising the data, the analysis is that Charter schools were the only type affected.
+
+ * Passing math percentage declined from 94% to 90%
+              
+ * Passing reading percentage declined from 98% to 93% 
+              
+ * The overall passing percentage was also reduced to 87% from 90%
+
 ### Summary
