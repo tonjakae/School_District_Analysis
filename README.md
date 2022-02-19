@@ -52,7 +52,7 @@ Before I scrubbed the data:
 
 ![image](https://user-images.githubusercontent.com/87340105/154781003-03023155-b112-46ab-9bc6-8db073178e5f.png)
 
-# How is the school summary affected?
+How is the school summary affected?
 # How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 # How does replacing the ninth-grade scores affect the following:
 * Math and reading scores by grade
