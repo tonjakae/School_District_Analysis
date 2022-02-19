@@ -76,7 +76,8 @@ The overall passing percentage for Thomas High School dropped to 65%
 By removing the 9th grader' math and reading scores, this drastically reduced Thomas High School's academic performance when compared to the other school.
 
 ## How does replacing the ninth-grade scores affect the following:
-* Math and reading scores by grade
+### Math and reading scores by grade:
+
   *Before
   
   ![image](https://user-images.githubusercontent.com/87340105/154783093-0a64b01a-84a7-4c76-b2f0-db79bb452af4.png)
@@ -86,7 +87,20 @@ By removing the 9th grader' math and reading scores, this drastically reduced Th
   ![image](https://user-images.githubusercontent.com/87340105/154783127-b725b7c9-a772-47fa-9bc2-50c8a42ff928.png)
 
 
-* Scores by school spending
-  * Scores by school size
-  * Scores by school type
+## Scores by school spending The impact of the removal of 9th grade data impacted school spending for the $630 - $644 category only.
+### The original analysis of scores by school spending is illustrated below:
+
+![image](https://user-images.githubusercontent.com/87340105/154783435-823ae300-cd91-497f-bd09-1d23591e826d.png)
+
+### Revised:
+
+![image](https://user-images.githubusercontent.com/87340105/154783451-3ac14055-df8d-4990-a1dc-edd86eaad6ff.png)
+
+
+
+
+* Scores by school size
+* 
+* Scores by school type
+* 
 * Summary
