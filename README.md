@@ -62,7 +62,7 @@ Average scores for both math and reading remained relatively flat with only a sl
 ## How is the school summary affected?
 
 ### Before scrubbed data:
-The overall passing percentage for Thomas High School was at 90%.
+The overall passing percentage for Thomas High School was at nearly 91%.
 
 ![image](https://user-images.githubusercontent.com/87340105/154782630-2944b6e0-6975-493c-884f-be7071a0d5dd.png)
 
@@ -72,6 +72,8 @@ The overall passing percentage for Thomas High School dropped to 65%
 ![image](https://user-images.githubusercontent.com/87340105/154782601-27956677-aaf5-4e37-b48e-2b82d57d14c9.png)
 
 ## How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+
+Removing the 9th grader' math and reading scores drastically reduced Thomas High School's academic performance when compared to the other school.
 
 ## How does replacing the ninth-grade scores affect the following:
 * Math and reading scores by grade
