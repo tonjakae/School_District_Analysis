@@ -122,4 +122,10 @@ After revising the data, the analysis is that Charter schools were the only type
               
  * The overall passing percentage was also reduced to 87% from 90%
 
-### Summary
+# *Summary*
+
+The overall Average math scores and average reading scores decreased however, the impact to the percentage passing each class was only marginally impacted                      due to the small sample size. 
+              
+The removal of 9th grade scores reduced the performance at Thomas High School compared to other schools.
+
+The impact of the removal of the data for the 9th graders at Thomas high school had the largest impact on the categories evaluted in the school summary analysis. For each category, school type, school size and budget per student categoy, a reduction in percentages of the passing math, passing reading and overall passing percentages was observed in the revised analysis suggesting that the 9th graders at Thomas High School scored high on both math and reading. Although cheating may or may not have occurred, results were negatively impacted by 3-6% in the school type, size and budget categories where Thomas High School 9th grade student performance data was removed.
