@@ -106,5 +106,12 @@ By removing the 9th grader' math and reading scores, this drastically reduced Th
 ### Scores by school size
 * 
 ### Scores by school type
-* 
+#### Original
+
+![image](https://user-images.githubusercontent.com/87340105/154784375-63d8ed05-5386-418e-88e3-fb95623b86d5.png)
+
+#### Revised
+
+![image](https://user-images.githubusercontent.com/87340105/154784393-9aca34d0-aec0-4e9f-9566-a35dab3e293e.png)
+
 ### Summary
